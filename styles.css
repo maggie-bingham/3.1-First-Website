@@ -1,0 +1,53 @@
+body {
+     height: 100%;
+     margin: 0;
+     font-family: 'Open Sans';
+}
+
+#tim {
+  float:left;
+  margin:80px 0 0 225px;
+  border: 2px solid #E5E5E5;
+  border-radius:10px;
+  width:400px;
+}
+
+#mark{
+  float:right;
+  margin: 80px 225px 0 0;
+  border: 2px solid #E5E5E5;
+  border-radius:10px;
+  width:400px;
+}
+
+.info {
+  color: #4E4E4E;
+  text-align: center;
+  border-bottom: 2px solid #E5E5E5;
+  line-height: 10px;
+}
+
+.info p {
+  font-size: 15px;
+}
+
+img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.raised {
+  float: left;
+  margin-left: 70px;
+  text-align: center;
+  line-height: 4px;
+  color: #4E4E4E;
+}
+
+.donors {
+  float: right;
+  margin-right: 70px;
+  text-align: center;
+  line-height: 4px;
+  color: #4E4E4E;
+}
